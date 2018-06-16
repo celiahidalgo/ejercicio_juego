@@ -1,0 +1,34 @@
+{
+    "Mineral": [
+        {
+            "name": "rubi",
+            "color": "rojo"
+        },
+        {
+            "name": "esmeralda",
+            "color": "verde"
+        }
+    ],
+    "Animal": [
+        {
+            "name": "pantera",
+            "color": "negro"
+        },
+        {
+            "name": "oso polar",
+            "color": "blanco"
+        }
+    ],
+    "Vegetal": [
+        {
+            "name": "manzana",
+            "color": "rojo"
+        },
+        {
+            "name": "pera",
+            "color": "verde"
+        }
+    ]
+
+}
+

@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio_mineraletc",
+  "version": "1.0.0",
+  "description": "juego animal, vegetal, mineral",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Celia",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
